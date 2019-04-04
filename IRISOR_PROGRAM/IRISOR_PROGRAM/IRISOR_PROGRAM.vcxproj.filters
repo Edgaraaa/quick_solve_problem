@@ -23,5 +23,8 @@
     <ClInclude Include="casor_Edgar.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="base_64.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

@@ -150,6 +150,7 @@
     <ClCompile Include="IRISOR_PROGRAM.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="base_64.h" />
     <ClInclude Include="casor_Edgar.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
