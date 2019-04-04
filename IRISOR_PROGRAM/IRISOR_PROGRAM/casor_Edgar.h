@@ -1,5 +1,8 @@
-#ifdef CASOR
-#define CASOR
+#pragma once
+/*
+writer:Edgar
+Time:2019.4.5 0:10
+ */
 #include <iostream>
 #include <cstring>
 #include <cstdio>
@@ -51,9 +54,12 @@ public:
 		}
 		cout << this->en_code << endl;
 	}
+	void de_cyptoa_evidence()
+	{
+		for (int i = 0; i <= 26; i++)
+		{
+			printf("the offset is %d\n", i);
+			de_cypto(i);
+		}
+	}
 };
-
-
-
-#endif // CASOR
-

@@ -20,10 +20,16 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="casor_Edgar.h">
+    <ClInclude Include="base_64_edgar.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="base_64.h">
+    <ClInclude Include="casor_edgar.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="aes_demo.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="bacon_edgar.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>

@@ -1,6 +1,9 @@
 ﻿  IRISOR_PROGRAM.cpp
-f:\myproject\quick_solve_problem\irisor_program\irisor_program\irisor_program.cpp(13): warning C4018: “<”: 有符号/无符号不匹配
-f:\myproject\quick_solve_problem\irisor_program\irisor_program\irisor_program.cpp(20): warning C4018: “<”: 有符号/无符号不匹配
-f:\myproject\quick_solve_problem\irisor_program\irisor_program\irisor_program.cpp(27): warning C4018: “<”: 有符号/无符号不匹配
-f:\myproject\quick_solve_problem\irisor_program\irisor_program\irisor_program.cpp(42): warning C4018: “<”: 有符号/无符号不匹配
+f:\myproject\quick_solve_problem\irisor_program\irisor_program\casor_edgar.h(18): warning C4018: “<”: 有符号/无符号不匹配
+f:\myproject\quick_solve_problem\irisor_program\irisor_program\casor_edgar.h(25): warning C4018: “<”: 有符号/无符号不匹配
+f:\myproject\quick_solve_problem\irisor_program\irisor_program\casor_edgar.h(32): warning C4018: “<”: 有符号/无符号不匹配
+f:\myproject\quick_solve_problem\irisor_program\irisor_program\casor_edgar.h(47): warning C4018: “<”: 有符号/无符号不匹配
+f:\myproject\quick_solve_problem\irisor_program\irisor_program\bacon_demo.h(26): warning C4018: “<”: 有符号/无符号不匹配
+f:\myproject\quick_solve_problem\irisor_program\irisor_program\bacon_demo.h(64): warning C4018: “<”: 有符号/无符号不匹配
+f:\myproject\quick_solve_problem\irisor_program\irisor_program\bacon_demo.h(87): warning C4018: “<”: 有符号/无符号不匹配
   IRISOR_PROGRAM.vcxproj -> F:\myProject\quick_solve_problem\IRISOR_PROGRAM\Debug\IRISOR_PROGRAM.exe

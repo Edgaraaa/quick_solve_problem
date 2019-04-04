@@ -150,8 +150,10 @@
     <ClCompile Include="IRISOR_PROGRAM.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="base_64.h" />
-    <ClInclude Include="casor_Edgar.h" />
+    <ClInclude Include="aes_demo.h" />
+    <ClInclude Include="bacon_edgar.h" />
+    <ClInclude Include="base_64_edgar.h" />
+    <ClInclude Include="casor_edgar.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
