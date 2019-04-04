@@ -1,6 +1,8 @@
-#pragma once
 
-#include 
+#include <iostream>
+#include <cstring>
+#include <string>
+#include <algorithm>
 #ifdef BASE64
 #define BASE64
 

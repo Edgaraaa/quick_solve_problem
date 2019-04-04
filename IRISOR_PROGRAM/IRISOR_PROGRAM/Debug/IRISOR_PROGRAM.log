@@ -1,0 +1,6 @@
+﻿  IRISOR_PROGRAM.cpp
+f:\myproject\quick_solve_problem\irisor_program\irisor_program\irisor_program.cpp(13): warning C4018: “<”: 有符号/无符号不匹配
+f:\myproject\quick_solve_problem\irisor_program\irisor_program\irisor_program.cpp(20): warning C4018: “<”: 有符号/无符号不匹配
+f:\myproject\quick_solve_problem\irisor_program\irisor_program\irisor_program.cpp(27): warning C4018: “<”: 有符号/无符号不匹配
+f:\myproject\quick_solve_problem\irisor_program\irisor_program\irisor_program.cpp(42): warning C4018: “<”: 有符号/无符号不匹配
+  IRISOR_PROGRAM.vcxproj -> F:\myProject\quick_solve_problem\IRISOR_PROGRAM\Debug\IRISOR_PROGRAM.exe

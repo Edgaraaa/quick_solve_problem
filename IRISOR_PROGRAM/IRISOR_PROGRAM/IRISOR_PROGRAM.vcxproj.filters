@@ -20,7 +20,7 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="base64_Edgar.h">
+    <ClInclude Include="casor_Edgar.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
