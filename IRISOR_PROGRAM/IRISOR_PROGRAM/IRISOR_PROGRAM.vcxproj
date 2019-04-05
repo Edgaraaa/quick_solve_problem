@@ -90,6 +90,8 @@
       <Optimization>Disabled</Optimization>
       <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
+      <SDLCheck>
+      </SDLCheck>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -151,6 +153,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="aes_demo.h" />
+    <ClInclude Include="affine_demo.h" />
     <ClInclude Include="atbash_demo.h" />
     <ClInclude Include="bacon_edgar.h" />
     <ClInclude Include="base32_demo.h" />

@@ -38,5 +38,8 @@
     <ClInclude Include="atbash_demo.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="affine_demo.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
