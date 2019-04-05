@@ -151,7 +151,9 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="aes_demo.h" />
+    <ClInclude Include="atbash_demo.h" />
     <ClInclude Include="bacon_edgar.h" />
+    <ClInclude Include="base32_demo.h" />
     <ClInclude Include="base_64_edgar.h" />
     <ClInclude Include="casor_edgar.h" />
   </ItemGroup>

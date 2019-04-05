@@ -32,5 +32,11 @@
     <ClInclude Include="bacon_edgar.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="base32_demo.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="atbash_demo.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
