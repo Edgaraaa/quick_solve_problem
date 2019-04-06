@@ -41,5 +41,8 @@
     <ClInclude Include="affine_demo.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="big_integer.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
