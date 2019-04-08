@@ -41,7 +41,10 @@
     <ClInclude Include="affine_demo.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="big_integer.h">
+    <ClInclude Include="ex_math.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="rail_fence_cipher_katharine.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>

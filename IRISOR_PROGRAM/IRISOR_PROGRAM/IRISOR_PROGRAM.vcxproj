@@ -158,8 +158,9 @@
     <ClInclude Include="bacon_edgar.h" />
     <ClInclude Include="base32_demo.h" />
     <ClInclude Include="base_64_edgar.h" />
-    <ClInclude Include="big_integer.h" />
     <ClInclude Include="casor_edgar.h" />
+    <ClInclude Include="ex_math.h" />
+    <ClInclude Include="rail_fence_cipher_katharine.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
