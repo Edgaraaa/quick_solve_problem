@@ -47,5 +47,8 @@
     <ClInclude Include="rail_fence_cipher_katharine.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="hex_demo.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

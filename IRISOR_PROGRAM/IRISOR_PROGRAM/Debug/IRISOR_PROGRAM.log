@@ -1,8 +1,5 @@
 ﻿  IRISOR_PROGRAM.cpp
-f:\myproject\quick_solve_problem\irisor_program\irisor_program\rail_fence_cipher_demo.h(16): warning C4018: “<”: 有符号/无符号不匹配
-f:\myproject\quick_solve_problem\irisor_program\irisor_program\rail_fence_cipher_demo.h(28): warning C4018: “<”: 有符号/无符号不匹配
-f:\myproject\quick_solve_problem\irisor_program\irisor_program\rail_fence_cipher_demo.h(78): warning C4018: “>=”: 有符号/无符号不匹配
-f:\myproject\quick_solve_problem\irisor_program\irisor_program\rail_fence_cipher_demo.h(93): warning C4018: “>=”: 有符号/无符号不匹配
-f:\myproject\quick_solve_problem\irisor_program\irisor_program\rail_fence_cipher_demo.h(110): warning C4018: “>=”: 有符号/无符号不匹配
-f:\myproject\quick_solve_problem\irisor_program\irisor_program\rail_fence_cipher_demo.h(139): warning C4018: “<”: 有符号/无符号不匹配
+f:\myproject\quick_solve_problem\irisor_program\irisor_program\hex_demo.h(15): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  f:\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+f:\myproject\quick_solve_problem\irisor_program\irisor_program\hex_demo.h(20): warning C4018: “<”: 有符号/无符号不匹配
   IRISOR_PROGRAM.vcxproj -> F:\myProject\quick_solve_problem\IRISOR_PROGRAM\Debug\IRISOR_PROGRAM.exe
